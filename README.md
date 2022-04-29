@@ -5,6 +5,8 @@ By analyzing the data and comparing 2017 vs 2018 return we can draw the conclusi
 
 ![2017](VBA_Challenge_2017.PNG)
 
+
+![2018](VBA_Challenge_2018.PNG)
 ## Summary
 The DQ stock clearly had an outstanding year for Steves parents coming in at a 199.4% return in 2017. 
 In addition, we learned that refactoring the code allowed for a more efficient way for Steve to see the results for an entire dataset in less than a second. Refactoring allows Steve to provide real time data, quickly and efficiently. 
